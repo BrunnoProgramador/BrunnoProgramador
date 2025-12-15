@@ -1,21 +1,53 @@
-### Hello, my name is Brunno Mariano Naves dos Santos 👋🏾
-#### I won a startup weekens from Escola do Futuro 🐱‍🏍
-#### I finished the programming logic course 👨🏾‍🎓
-#### I'm studying web programming and network technician at senac, while I'm studying English at CNA 🏃🏾‍♂️
-Contatos: 
-e-mail: brunnomariano407@gmail.com
+## 👋 Olá, eu sou o Brunno Mariano
 
-<!--
-**BrunnoProgramador/BrunnoProgramador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software e estagiário como desenvolvedor, com foco em **qualidade de código, raciocínio lógico e melhoria contínua**.
 
-Here are some ideas to get you started:
+### 💻 Competências
+- Lógica de Programação e Estruturas de Dados (conceitos)
+- **C#** (nível acadêmico e prático inicial)
+- **Python** (em aprendizado, scripts e automações)
+- Fundamentos de Banco de Dados e **Firebird**
+- **Git & GitHub**
+- Redes de Computadores (noções)
+- Fundamentos de Hardware (em aprendizado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos
+- Sistema de NLP para holograma usando **Google AI Studio** (repositório privado)
+- Chatbot para criação e gerenciamento de projetos integrado ao **GitHub** (em desenvolvimento)
+
+### 🎯 Objetivos
+- Construir conhecimento técnico sólido e experiência no mercado
+- Evoluir como desenvolvedor focado em código limpo e sustentável
+- Criar conexões profissionais na área de tecnologia
+
+### 📫 Contato
+- 📧 Email: **brunnomariano407@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/brunno-mariano-34398a270](https://linkedin.com/in/brunno-mariano-34398a270)
+
+---
+
+## 👋 Hi, I'm Brunno Mariano
+
+Software Engineering student and software development intern, focused on **code quality, logical reasoning, and continuous improvement**.
+
+### 💻 Skills
+- Programming Logic and Data Structures (concepts)
+- **C#** (academic and initial practical experience)
+- **Python** (learning, scripting and automation)
+- Database fundamentals and **Firebird**
+- **Git & GitHub**
+- Computer Networks (basic knowledge)
+- Hardware fundamentals (learning)
+
+### 🚀 Projects
+- NLP system for a hologram using **Google AI Studio** (private repository)
+- Project management chatbot integrated with **GitHub** (in development)
+
+### 🎯 Goals
+- Build solid technical knowledge and market experience
+- Grow as a developer focused on clean and maintainable code
+- Create strong professional connections in tech
+
+### 📫 Contact
+- 📧 Email: **brunnomariano407@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/brunno-mariano-34398a270](https://linkedin.com/in/brunno-mariano-34398a270)
