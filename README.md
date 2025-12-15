@@ -4,7 +4,7 @@ Estudante de Engenharia de Software e estagiário como desenvolvedor, com foco e
 
 ### 💻 Competências
 - Lógica de Programação e Estruturas de Dados (conceitos)
-- **C#** (nível acadêmico e prático inicial)
+- **C#** (experiência prática em ambiente profissional)
 - **Python** (em aprendizado, scripts e automações)
 - Fundamentos de Banco de Dados e **Firebird**
 - **Git & GitHub**
@@ -32,7 +32,7 @@ Software Engineering student and software development intern, focused on **code 
 
 ### 💻 Skills
 - Programming Logic and Data Structures (concepts)
-- **C#** (academic and initial practical experience)
+- **C#** (practical experience in a professional environment)
 - **Python** (learning, scripting and automation)
 - Database fundamentals and **Firebird**
 - **Git & GitHub**
